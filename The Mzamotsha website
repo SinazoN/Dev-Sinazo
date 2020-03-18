@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+<style>
+.staffWidget{
+    width: 100%;
+}
+
+.staffWidget > .row{
+    width: 100%;
+}
+
+.staffWidget > .row > .staff{
+    width: 32%;
+    float: left;
+    margin-bottom: 0.5rem;
+    background-color: lightblue;
+}
+
+.staffWidget > .row > .staff:first-child{
+    margin-right: 2%;
+}
+
+.staffWidget > .row > .staff:last-child{
+    margin-left: 2%;
+}
+
+
+
+</style>
+
+
+</head>
+<body>
+<div class="staffWidget">
+    <div class="row">
+        <div class="staff">
+            <h1>Principal</h1>
+            <h2>Mr Kuze</h2>
+            <p>Mr Kuze is the head of the school and he <br>is responsible for supervising staff and monitoring the school</br>  </p>
+            <p>Contact :Kuzesimphiwe@gmail.com</p>
+            <img src="download.jpg" width="70" height="70">
+        </div>
+
+        <div class="staff">
+            <h1>Teacher</h1>
+            <h2>Mr Smith</h2>
+            <p>Mr Smith is an Maths teacher and she is also responsible for sports and entertainment </p>
+            <p>Contact :smithloyde@gmail.com</p>
+            <img src="images (12).jpg" width="70" height="70">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="staff">
+            <h1>Teacher</h1>
+            <h2>Mrs Lond</h2>
+            <p>Mrs Lond is an Accounting teacher and she is also responsible for learner support interventions </p>
+            <p>Contact :londweys@gmail.com</p>
+            <img src="Anke-Olivier-Kok-cropped.jpg" width="70" height="70">
+        </div> 
+
+
+        <div class="staff">
+            <h1>Teacher</h1>
+            <h2>Mrs Lond</h2>
+            <p>Mrs Lond is an Accounting teacher and she is also responsible for learner support interventions </p>
+            <p>Contact :londweys@gmail.com</p>
+            <img src="Anke-Olivier-Kok-cropped.jpg" width="70" height="70">
+        </div> 
+    </div>
+    
+
+
+    <div class="row">
+        <div class="staff">
+            <h1>Principal</h1>
+            <h2>Mr Kuze</h2>
+            <p>Mr Kuze is the head of the school and he <br>is responsible for supervising staff and monitoring the school</br>  </p>
+            <p>Contact :Kuzesimphiwe@gmail.com</p>
+            <img src="download.jpg" width="70" height="70">
+        </div>
+
+        <div class="staff">
+            <h1>Teacher</h1>
+            <h2>Mr Smith</h2>
+            <p>Mr Smith is an Maths teacher and she is also responsible for sports and entertainment </p>
+            <p>Contact :smithloyde@gmail.com</p>
+            <img src="images (12).jpg" width="70" height="70">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="staff">
+            <h1>Teacher</h1>
+            <h2>Mrs Lond</h2>
+            <p>Mrs Lond is an Accounting teacher and she is also responsible for learner support interventions </p>
+            <p>Contact :londweys@gmail.com</p>
+            <img src="Anke-Olivier-Kok-cropped.jpg" width="70" height="70">
+        </div> 
+
+
+        <div class="staff">
+            <h1>Teacher</h1>
+            <h2>Mrs Lond</h2>
+            <p>Mrs Lond is an Accounting teacher and she is also responsible for learner support interventions </p>
+            <p>Contact :londweys@gmail.com</p>
+            <img src="Anke-Olivier-Kok-cropped.jpg" width="70" height="70">
+        </div> 
+
+        <div class="staff">
+            <h1>Teacher</h1>
+            <h2>Mrs Lond</h2>
+            <p>Mrs Lond is an Accounting teacher and she is also responsible for learner support interventions </p>
+            <p>Contact :londweys@gmail.com</p>
+            <img src="Anke-Olivier-Kok-cropped.jpg" width="70" height="70">
+        </div> 
+    
+    
+</div>
+
+</body>
+</html>
