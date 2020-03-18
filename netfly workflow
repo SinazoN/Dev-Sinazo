@@ -1,0 +1,13 @@
+- name: Netlify Deploy
+  uses: jsmrcaga/action-netlify-deploy@v1.0.1
+  with:
+    # Auth token to use with netlify
+    NETLIFY_AUTH_TOKEN: # default is 
+    # Your Netlify site id
+    NETLIFY_SITE_ID: # default is 
+    # A deploy message
+    NETLIFY_DEPLOY_MESSAGE: # optional, default is 
+    # Directory where built files are stored
+    build_directory: # default is build
+    # Directory where built files are stored
+    functions_directory: # optional, default is 
